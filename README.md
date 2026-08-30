@@ -13,7 +13,7 @@
 
 ---
 
-**👨‍💻 Sobre mim**
+👨‍💻 **Sobre mim**
 
 - 🎓 Estudante de Sistemas para Internet - UESPI/UAPI.
 - 💻 Desenvolvedor web Full-Stack desde 2021.
@@ -22,37 +22,37 @@
 - 📚 Atualmente focado em construir projetos completos para evoluir minhas habilidades como desenvolvedor Full-Stack.
 
 ---
-🛠️ **Tenho conhecimento em:**
+### 🛠️ Tenho conhecimento em
 
-⚙️ Linguagens
+⚙️ **Linguagens**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,js,ts,php,java,c,cpp&theme=light" />
   </a>
 </p>
 
-### ⚙️ Front-end
+⚙️ **Front-end**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap&theme=light" />
   </a>
 </p>
 
-## ⚙️ Ferramentas
+📌 **Ferramentas**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nodejs,flask,express,vite,npm,postman&theme=light" />
   </a>
 </p>
 
-## ⚙️ Tecnologias
+📌 **Tecnologias**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,git,github,vercel,vscode&theme=light" />
   </a>
 </p>
 
-## ⚙️ Banco de Dados
+🏆 **Banco de Dados**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase&theme=light" />
@@ -61,7 +61,7 @@
 
 ---
 
-## 📚 Atualmente estudando
+📚 **Atualmente estudando**
 
 - Python Avançado
 - TypeScript
@@ -70,74 +70,16 @@
 
 ---
 
-## 📫 Contato
-
-<p>
-
-  <a href="mailto:naldoxp@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/erynaldo"> 
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> 
-  </a>
-  
-  <a href="https://www.linkedin.com/in/erinaldo-cardoso-709bb31a3/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/erinaldo-cardoso-709bb31a3/"> 
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> 
-  </a>
-  
-  <a href="https://www.instagram.com/erinaldo_c_s/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  
-</p>
-
----
-
-> 💙 "Entusiasta de tecnologia movido pela curiosidade e pelo código."
+### 📊 Status - Atividades - Métricas no GitHub
 
 
----
-### 📊 Meus Status e Métricas no GitHub
-
----
-
-📊 GitHub Analytics
-
-
-🔥 GitHub Streak
-
-
-💻 Linguagens que mais utilizo
-
-
-📈 Minha atividade no GitHub
-
-
-🏆 GitHub Trophies
-
-
-📌 Projetos em destaque
-
-
-🛠️ Tecnologias
-
-
-📫 Contato
-
----
-
-## 📊 GitHub Analytics
+📊 **GitHub Analytics**
 
 <div align="center">
 
 <img
   src="./stats/dashboard.svg"
-  width="100%"
+  width="80%"
   alt="GitHub Analytics"
 />
 
@@ -145,13 +87,13 @@
 
 ---
 
-## 💻 Linguagens
+💻 **Linguagens**
 
 <div align="center">
 
 <img
   src="./stats/languages.svg"
-  width="100%"
+  width="80%"
   alt="Programming Languages"
 />
 
@@ -159,13 +101,13 @@
 
 ---
 
-## 📈 Contribuições
+📈 **Contribuições**
 
 <div align="center">
 
 <img
   src="./stats/contributions.svg"
-  width="100%"
+  width="80%"
   alt="GitHub Contributions"
 />
 
@@ -173,7 +115,7 @@
 
 ---
 
-## 🔥 GitHub Activity
+🔥 **GitHub Activity**
 
 <div align="center">
 
@@ -186,10 +128,38 @@
 
 ---
 
-⭐ Obrigado pela visita!
+📫 **Contato**
 
-<img
-  src="https://komarev.com/ghpvc/?username=erynaldo&style=for-the-badge&color=8b5cf6"
-/>
+<p style="margin-right: 6px;">
+
+  <a href="mailto:naldoxp@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/erynaldo"> 
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> 
+  </a>
+  
+  <a href="https://www.linkedin.com/in/erinaldo-cardoso-709bb31a3/"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+  </a>
+  
+  <a href="https://www.instagram.com/erinaldo_c_s/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  
+</p>
+
+---
+
+💙 "Entusiasta de tecnologia movido pela curiosidade e pelo código."
+
+---
+
+<div align="center">
+  
+  ## ⭐ Obrigado pela visita!
+
+  <img src="https://komarev.com/ghpvc/?username=erynaldo&style=for-the-badge&color=8b5cf6" />
 
 </div>
