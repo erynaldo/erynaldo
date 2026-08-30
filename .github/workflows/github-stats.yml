@@ -1,0 +1,75 @@
+name: 📊 Update GitHub Analytics
+
+on:
+  schedule:
+    # Executa todos os dias às 03:00 UTC
+    - cron: "0 3 * * *"
+
+  # Permite executar manualmente pelo GitHub
+  workflow_dispatch:
+
+  # Atualiza quando o próprio workflow/script for alterado
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+
+  generate-statistics:
+
+    name: Generate GitHub Statistics
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      # -------------------------------------------------------
+      # Checkout
+      # -------------------------------------------------------
+
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+
+      # -------------------------------------------------------
+      # Python
+      # -------------------------------------------------------
+
+      - name: 🐍 Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # -------------------------------------------------------
+      # Generate statistics
+      # -------------------------------------------------------
+
+      - name: 📊 Generate statistics
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: erynaldo
+        run: |
+          python scripts/generate_stats.py
+
+      # -------------------------------------------------------
+      # Commit generated files
+      # -------------------------------------------------------
+
+      - name: 💾 Commit generated statistics
+        run: |
+
+          git config user.name "github-actions[bot]"
+
+          git config user.email \
+            "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add stats/
+
+          if git diff --cached --quiet; then
+            echo "Nenhuma alteração nas estatísticas."
+          else
+            git commit -m "📊 Update GitHub analytics"
+            git push
+          fi
