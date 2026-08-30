@@ -132,3 +132,75 @@
   <!-- Gráfico de Contribuições por Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=erynaldo&theme=tokyo-night&hide_border=true" alt="GitHub Streak" />
 </div>
+
+---
+
+📊 GitHub Analytics
+
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erynaldo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erynaldo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+Meu objetivo é criar soluções eficientes, escaláveis e bonitas.
+
+📊 GitHub Analytics
+
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erynaldo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erynaldo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+
+</p>
+
+🔥 GitHub Streak
+
+<p align="center"> <img src="https://streak-stats.demolab.com?user=erynaldo&theme=tokyonight&hide_border=true" /> </p>
+
+💻 Linguagens que mais utilizo
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erynaldo&layout=donut&langs_count=10&theme=tokyonight&hide_border=true" /> </p>
+
+📈 Minha atividade no GitHub
+
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=erynaldo&theme=tokyo-night&hide_border=true&area=true" /> </p>
+
+🏆 GitHub Trophies
+
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=erynaldo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" /> </p>
+
+📌 Projetos em destaque
+
+<p align="center">
+
+<a href="https://github.com/erynaldo/PROJETO_1"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=PROJETO_1&theme=tokyonight&hide_border=true" /> </a>
+
+<a href="https://github.com/erynaldo/PROJETO_2"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=PROJETO_2&theme=tokyonight&hide_border=true" /> </a>
+
+</p>
+
+🛠️ Tecnologias
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,html,css,js,ts,react,nodejs,python,java,docker,aws,mysql,postgresql&perline=7" />
+
+</p>
+
+📫 Contato
+
+<p align="center">
+
+<a href="https://github.com/erynaldo"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
+
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/erinaldo-cardoso-709bb31a3/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+
+</p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=erynaldo&style=for-the-badge&color=6C63FF" /> </p>
+
+<p align="center"> <i>“Transformando ideias em código.”</i> </p>
+
+<p align="center"> ⭐ Se algum dos meus projetos foi útil para você, considere deixar uma estrela! </p>
