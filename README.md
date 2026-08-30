@@ -78,3 +78,31 @@
 ---
 
 > 💙 "Entusiasta de tecnologia movido pela curiosidade e pelo código."
+
+---
+<!-- 
+  Dica: Se quiser que o tema mude automaticamente com o modo escuro/claro do GitHub, 
+  você pode trocar 'vue-dark' por outro tema de sua preferência.
+-->
+
+### 📊 Meus Estatísticas e Métricas no GitHub
+
+<div align="center">
+
+  <!-- Gráfico de Linguagens Mais Usadas -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erynaldo&layout=compact&theme=vue-dark&langs_count=8&hide_border=true" alt="Linguagens mais usadas" />
+
+</div>
+
+<br/>
+
+<!-- Dashboard Completo de Métricas (Commits, Pull Requests, Contribuições) -->
+<div align="center">
+  <img src="https://metrics.lecoq.codes/api.svg?username=erynaldo&template=classic&base=header,activity,community,repositories&colored_svg=true&options_use_graphs=yes&plugins_errors_fatal=false&plugin_lines=yes&plugin_habits=yes&plugin_habits_from=200&plugin_habits_days=14&plugin_introduction=yes&plugin_introduction_title=yes&theme=tokyo-night" alt="Dashboard de Métricas Detalhado" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=erynaldo&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</div>
