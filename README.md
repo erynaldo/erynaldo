@@ -1,15 +1,99 @@
-<h1 align="center">👋 Olá, seja bem vindo!</h1>
+<h1 align="center">👋 Olá, bem vindo!</h1>
 
 ## 🚀 Um pouco sobre mim
 
-- 🎓 Estudante de **Sistemas para Internet** - UESPI/UAPI.
-- 💻 Desenvolvedor Full-Stack com 4 anos de experiência em Python • Flask • JavaScript • Node.js • React • HTML • CSS • Tailwind CSS • MySQL • PostgreSQL
-- 💡 Apaixonado por Tecnologia, Programação e Inteligência Artificial.
-- 📚 Atualmente focado em construir projetos completos para evoluir minhas habilidades como desenvolvedor Full Stack.
+- 🎓 Estudante de Sistemas para Internet - UESPI/UAPI.
+- 💻 Desenvolvedor web Full-Stack desde 2021.
+- 🛠️ Tenho conhecimento em • Python • Flask • JavaScript • TypeScript • Node.js • React • HTML • CSS • Tailwind CSS • SQL • MySQL • PostgreSQL • Git • Github.
+- 💡  Apaixonado por Tecnologia, Programação e Inteligência Artificial.
+- 📚 Atualmente focado em construir projetos completos para evoluir minhas habilidades como desenvolvedor Full-Stack.
+
+---
+## 🛠️ Tenho conhecimento em:
+
+## ⚙️ Linguagens
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,ts,php,java,c,cpp" />
+  </a>
+</p>
+
+# ⚙️ Front-end
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" />
+  </a>
+</p>
+
+## ⚙️ Ferramentas
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,flask,express,vite,npm,postman" />
+  </a>
+</p>
+
+## ⚙️ Tecnologias
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,git,github,vercel,vscode" />
+  </a>
+</p>
+
+## ⚙️ Banco de Dados
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sql,mysql,postgres,supabase" />
+  </a>
+</p>
 
 ---
 
-## ⚙️ 🛠️ Tecnologias e Ferramentas
+## ⚙️ Linguagens de Programação
+
+<p align="left">
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45"/>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/C++/C++-original.svg" width="45"/>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45"/>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
+  
+</p>
+
+## 🛠️ Front-End: Tecnologias e Ferramentas
+
+<p align="left">
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="45"/>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwind/tail-original.svg" width="45"/>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="45"/>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/>
+  
+</p>
+
+## 🛠️ Back-End: Tecnologias e Ferramentas
 
 <p align="left">
 
