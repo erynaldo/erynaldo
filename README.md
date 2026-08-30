@@ -62,19 +62,23 @@
 <p>
 
   <a href="mailto:naldoxp@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://github.com/erynaldo"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
+  <a href="https://github.com/erynaldo"> 
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> 
+  </a>
   
   <a href="https://www.linkedin.com/in/erinaldo-cardoso-709bb31a3/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/erinaldo-cardoso-709bb31a3/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/erinaldo-cardoso-709bb31a3/"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+  </a>
   
   <a href="https://www.instagram.com/erinaldo_c_s/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   
 </p>
@@ -83,36 +87,9 @@
 
 > 💙 "Entusiasta de tecnologia movido pela curiosidade e pelo código."
 
----
-<!-- 
-  Dica: Se quiser que o tema mude automaticamente com o modo escuro/claro do GitHub, 
-  você pode trocar 'vue-dark' por outro tema de sua preferência.
--->
-
-### 📊 Meus Estatísticas e Métricas no GitHub
-
-<div align="center">
-
-  <!-- Gráfico de Linguagens Mais Usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erynaldo&layout=compact&theme=vue-dark&langs_count=8&hide_border=true" alt="Linguagens mais usadas" />
-
-</div>
-
-<br/>
-
-<!-- Dashboard Completo de Métricas (Commits, Pull Requests, Contribuições) -->
-<div align="center">
-<img src="https://metrics.lecoq.codes/api.svg?username=erynaldo&template=classic&base=header,activity,community,repositories&colored_svg=true&options_use_graphs=yes&plugins_errors_fatal=false&plugin_lines=yes&plugin_habits=yes&plugin_habits_from=200&plugin_habits_days=14&plugin_introduction=yes&plugin_introduction_title=yes&theme=tokyo-night" alt="Dashboard de Métricas Detalhado" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erynaldo&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</div>
 
 ---
-## 📊 Meus Status e Métricas no GitHub
+### 📊 Meus Status e Métricas no GitHub
 
 ---
 
@@ -140,16 +117,135 @@
 
 📫 Contato
 
-<p align="center">
-
-<a href="https://github.com/erynaldo"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
-
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/erinaldo-cardoso-709bb31a3/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
-
-</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=erynaldo&style=for-the-badge&color=6C63FF" /> </p>
 
-<p align="center"> <i>“Transformando ideias em código.”</i> </p>
+<p align="center"> <i>⭐ “Transformando ideias em código.”</i> </p>
 
-<p align="center"> ⭐ Se algum dos meus projetos foi útil para você, considere deixar uma estrela! </p>
+---
+
+<div align="center">
+
+# 👋 Olá, eu sou Erynaldo!
+
+### 💻 Developer • 🚀 Technology • ☁️ Cloud • 📊 Open Source
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:06b6d4&height=180&section=header&text=ERYNALDO&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
+/>
+
+</div>
+
+---
+
+## 👨‍💻 Sobre mim
+
+Sou desenvolvedor apaixonado por tecnologia, programação e construção de soluções.
+
+Gosto de transformar ideias em código, aprender novas tecnologias e trabalhar em projetos que gerem impacto.
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img
+  src="./stats/dashboard.svg"
+  width="100%"
+  alt="GitHub Analytics"
+/>
+
+</div>
+
+---
+
+## 💻 Linguagens
+
+<div align="center">
+
+<img
+  src="./stats/languages.svg"
+  width="100%"
+  alt="Programming Languages"
+/>
+
+</div>
+
+---
+
+## 📈 Contribuições
+
+<div align="center">
+
+<img
+  src="./stats/contributions.svg"
+  width="100%"
+  alt="GitHub Contributions"
+/>
+
+</div>
+
+---
+
+## 🔥 GitHub Activity
+
+<div align="center">
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=erynaldo&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
+/>
+
+</div>
+
+---
+
+## 🛠️ Tecnologias
+
+<div align="center">
+
+<img
+  src="https://skillicons.dev/icons?i=git,github,html,css,js,ts,react,nodejs,python,java,docker,linux,mysql,postgresql,aws&perline=8"
+/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=erynaldo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"
+/>
+
+</div>
+
+---
+
+## 📫 Onde me encontrar
+
+<div align="center">
+
+<a href="https://github.com/erynaldo">
+  <img
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Obrigado pela visita!
+
+<img
+  src="https://komarev.com/ghpvc/?username=erynaldo&style=for-the-badge&color=8b5cf6"
+/>
+
+</div>
