@@ -98,11 +98,37 @@
 
 <!-- Dashboard Completo de Métricas (Commits, Pull Requests, Contribuições) -->
 <div align="center">
-  <img src="https://metrics.lecoq.codes/api.svg?username=erynaldo&template=classic&base=header,activity,community,repositories&colored_svg=true&options_use_graphs=yes&plugins_errors_fatal=false&plugin_lines=yes&plugin_habits=yes&plugin_habits_from=200&plugin_habits_days=14&plugin_introduction=yes&plugin_introduction_title=yes&theme=tokyo-night" alt="Dashboard de Métricas Detalhado" />
+<img src="https://metrics.lecoq.codes/api.svg?username=erynaldo&template=classic&base=header,activity,community,repositories&colored_svg=true&options_use_graphs=yes&plugins_errors_fatal=false&plugin_lines=yes&plugin_habits=yes&plugin_habits_from=200&plugin_habits_days=14&plugin_introduction=yes&plugin_introduction_title=yes&theme=tokyo-night" alt="Dashboard de Métricas Detalhado" />
 </div>
 
 <br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=erynaldo&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</div>
+
+---
+### 📊 Meus Status e Métricas no GitHub
+
+<div align="center">
+
+  <!-- Gráfico de Linguagens Mais Usadas (Versão Estável) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erynaldo&layout=compact&theme=tokyo-night&langs_count=8&hide_border=true" alt="Linguagens mais usadas" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <!-- Cards Gerais de Contribuições e Streaks -->
+  <img src="https://github-readme-stats.vercel.app/api?username=erynaldo&show_icons=true&theme=tokyo-night&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Gráfico de Contribuições por Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erynaldo&theme=tokyo-night&hide_border=true" alt="GitHub Streak" />
 </div>
