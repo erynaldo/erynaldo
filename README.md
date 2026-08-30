@@ -19,30 +19,30 @@
 </p>
 
 ## ⚙️ Front-end
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap&theme=light" />
   </a>
 </p>
 
 ## ⚙️ Ferramentas
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,flask,express,vite,npm,postman" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,flask,express,vite,npm,postman&theme=light" />
   </a>
 </p>
 
 ## ⚙️ Tecnologias
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,git,github,vercel,vscode" />
+    <img src="https://skillicons.dev/icons?i=figma,git,github,vercel,vscode&theme=light" />
   </a>
 </p>
 
 ## ⚙️ Banco de Dados
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase&theme=light" />
   </a>
 </p>
 
