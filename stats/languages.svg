@@ -1,0 +1,399 @@
+<svg
+xmlns="http://www.w3.org/2000/svg"
+width="1100"
+height="520"
+viewBox="0 0 1100 520">
+
+<defs>
+
+  <linearGradient
+    id="bg"
+    x1="0%"
+    y1="0%"
+    x2="100%"
+    y2="100%">
+
+    <stop
+      offset="0%"
+      stop-color="#0f172a"/>
+
+    <stop
+      offset="100%"
+      stop-color="#111827"/>
+
+  </linearGradient>
+
+  <linearGradient
+    id="accent"
+    x1="0%"
+    y1="0%"
+    x2="100%"
+    y2="0%">
+
+    <stop
+      offset="0%"
+      stop-color="#8b5cf6"/>
+
+    <stop
+      offset="100%"
+      stop-color="#06b6d4"/>
+
+  </linearGradient>
+
+</defs>
+
+<rect
+  width="1100"
+  height="520"
+  rx="24"
+  fill="url(#bg)"/>
+
+<text
+  x="40"
+  y="48"
+  fill="#f8fafc"
+  font-family="Inter,Arial,sans-serif"
+  font-size="25"
+  font-weight="700">
+
+  💻 LANGUAGE DISTRIBUTION
+
+</text>
+
+
+
+<text
+  x="40"
+  y="95"
+  fill="#e2e8f0"
+  font-family="Inter,Arial,sans-serif"
+  font-size="16"
+  font-weight="600">
+
+  TypeScript
+
+</text>
+
+<rect
+  x="190"
+  y="78"
+  width="600"
+  height="22"
+  rx="11"
+  fill="#1e293b"/>
+
+<rect
+  x="190"
+  y="78"
+  width="196.32"
+  height="22"
+  rx="11"
+  fill="url(#accent)"/>
+
+<text
+  x="820"
+  y="95"
+  fill="#f8fafc"
+  font-family="Inter,Arial,sans-serif"
+  font-size="16"
+  font-weight="700">
+
+  32.72%
+
+</text>
+
+
+
+<text
+  x="40"
+  y="143"
+  fill="#e2e8f0"
+  font-family="Inter,Arial,sans-serif"
+  font-size="16"
+  font-weight="600">
+
+  JavaScript
+
+</text>
+
+<rect
+  x="190"
+  y="126"
+  width="600"
+  height="22"
+  rx="11"
+  fill="#1e293b"/>
+
+<rect
+  x="190"
+  y="126"
+  width="179.46"
+  height="22"
+  rx="11"
+  fill="url(#accent)"/>
+
+<text
+  x="820"
+  y="143"
+  fill="#f8fafc"
+  font-family="Inter,Arial,sans-serif"
+  font-size="16"
+  font-weight="700">
+
+  29.91%
+
+</text>
+
+
+
+<text
+  x="40"
+  y="191"
+  fill="#e2e8f0"
+  font-family="Inter,Arial,sans-serif"
+  font-size="16"
+  font-weight="600">
+
+  CSS
+
+</text>
+
+<rect
+  x="190"
+  y="174"
+  width="600"
+  height="22"
+  rx="11"
+  fill="#1e293b"/>
+
+<rect
+  x="190"
+  y="174"
+  width="116.10"
+  height="22"
+  rx="11"
+  fill="url(#accent)"/>
+
+<text
+  x="820"
+  y="191"
+  fill="#f8fafc"
+  font-family="Inter,Arial,sans-serif"
+  font-size="16"
+  font-weight="700">
+
+  19.35%
+
+</text>
+
+
+
+<text
+  x="40"
+  y="239"
+  fill="#e2e8f0"
+  font-family="Inter,Arial,sans-serif"
+  font-size="16"
+  font-weight="600">
+
+  HTML
+
+</text>
+
+<rect
+  x="190"
+  y="222"
+  width="600"
+  height="22"
+  rx="11"
+  fill="#1e293b"/>
+
+<rect
+  x="190"
+  y="222"
+  width="74.64"
+  height="22"
+  rx="11"
+  fill="url(#accent)"/>
+
+<text
+  x="820"
+  y="239"
+  fill="#f8fafc"
+  font-family="Inter,Arial,sans-serif"
+  font-size="16"
+  font-weight="700">
+
+  12.44%
+
+</text>
+
+
+
+<text
+  x="40"
+  y="287"
+  fill="#e2e8f0"
+  font-family="Inter,Arial,sans-serif"
+  font-size="16"
+  font-weight="600">
+
+  Python
+
+</text>
+
+<rect
+  x="190"
+  y="270"
+  width="600"
+  height="22"
+  rx="11"
+  fill="#1e293b"/>
+
+<rect
+  x="190"
+  y="270"
+  width="13.68"
+  height="22"
+  rx="11"
+  fill="url(#accent)"/>
+
+<text
+  x="820"
+  y="287"
+  fill="#f8fafc"
+  font-family="Inter,Arial,sans-serif"
+  font-size="16"
+  font-weight="700">
+
+  2.28%
+
+</text>
+
+
+
+<text
+  x="40"
+  y="335"
+  fill="#e2e8f0"
+  font-family="Inter,Arial,sans-serif"
+  font-size="16"
+  font-weight="600">
+
+  PowerShell
+
+</text>
+
+<rect
+  x="190"
+  y="318"
+  width="600"
+  height="22"
+  rx="11"
+  fill="#1e293b"/>
+
+<rect
+  x="190"
+  y="318"
+  width="9.12"
+  height="22"
+  rx="11"
+  fill="url(#accent)"/>
+
+<text
+  x="820"
+  y="335"
+  fill="#f8fafc"
+  font-family="Inter,Arial,sans-serif"
+  font-size="16"
+  font-weight="700">
+
+  1.52%
+
+</text>
+
+
+
+<text
+  x="40"
+  y="383"
+  fill="#e2e8f0"
+  font-family="Inter,Arial,sans-serif"
+  font-size="16"
+  font-weight="600">
+
+  C
+
+</text>
+
+<rect
+  x="190"
+  y="366"
+  width="600"
+  height="22"
+  rx="11"
+  fill="#1e293b"/>
+
+<rect
+  x="190"
+  y="366"
+  width="5.40"
+  height="22"
+  rx="11"
+  fill="url(#accent)"/>
+
+<text
+  x="820"
+  y="383"
+  fill="#f8fafc"
+  font-family="Inter,Arial,sans-serif"
+  font-size="16"
+  font-weight="700">
+
+  0.90%
+
+</text>
+
+
+
+<text
+  x="40"
+  y="431"
+  fill="#e2e8f0"
+  font-family="Inter,Arial,sans-serif"
+  font-size="16"
+  font-weight="600">
+
+  Java
+
+</text>
+
+<rect
+  x="190"
+  y="414"
+  width="600"
+  height="22"
+  rx="11"
+  fill="#1e293b"/>
+
+<rect
+  x="190"
+  y="414"
+  width="4.68"
+  height="22"
+  rx="11"
+  fill="url(#accent)"/>
+
+<text
+  x="820"
+  y="431"
+  fill="#f8fafc"
+  font-family="Inter,Arial,sans-serif"
+  font-size="16"
+  font-weight="700">
+
+  0.78%
+
+</text>
+
+</svg>

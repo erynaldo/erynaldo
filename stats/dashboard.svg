@@ -1,0 +1,423 @@
+<svg
+xmlns="http://www.w3.org/2000/svg"
+width="1100"
+height="520"
+viewBox="0 0 1100 520">
+
+<defs>
+
+  <linearGradient
+    id="bg"
+    x1="0%"
+    y1="0%"
+    x2="100%"
+    y2="100%">
+
+    <stop
+      offset="0%"
+      stop-color="#0f172a"/>
+
+    <stop
+      offset="100%"
+      stop-color="#111827"/>
+
+  </linearGradient>
+
+  <linearGradient
+    id="accent"
+    x1="0%"
+    y1="0%"
+    x2="100%"
+    y2="0%">
+
+    <stop
+      offset="0%"
+      stop-color="#8b5cf6"/>
+
+    <stop
+      offset="100%"
+      stop-color="#06b6d4"/>
+
+  </linearGradient>
+
+</defs>
+
+<rect
+  width="1100"
+  height="520"
+  rx="24"
+  fill="url(#bg)"/>
+
+<text
+  x="40"
+  y="48"
+  fill="#f8fafc"
+  font-family="Inter,Arial,sans-serif"
+  font-size="25"
+  font-weight="700">
+
+  ⚡ ERYNALDO — GITHUB ANALYTICS
+
+</text>
+
+
+
+<rect
+  x="40"
+  y="90"
+  width="300"
+  height="125"
+  rx="18"
+  fill="#111827"
+  stroke="#1f2937"
+  stroke-width="1"/>
+
+<rect
+  x="40"
+  y="90"
+  width="5"
+  height="125"
+  rx="2"
+  fill="url(#accent)"/>
+
+<text
+  x="65"
+  y="125"
+  fill="#94a3b8"
+  font-family="Inter,Arial,sans-serif"
+  font-size="13"
+  font-weight="600">
+
+  COMMITS
+
+</text>
+
+<text
+  x="65"
+  y="172"
+  fill="#f8fafc"
+  font-family="Inter,Arial,sans-serif"
+  font-size="34"
+  font-weight="700">
+
+  106
+
+</text>
+
+
+<rect
+  x="400"
+  y="90"
+  width="300"
+  height="125"
+  rx="18"
+  fill="#111827"
+  stroke="#1f2937"
+  stroke-width="1"/>
+
+<rect
+  x="400"
+  y="90"
+  width="5"
+  height="125"
+  rx="2"
+  fill="url(#accent)"/>
+
+<text
+  x="425"
+  y="125"
+  fill="#94a3b8"
+  font-family="Inter,Arial,sans-serif"
+  font-size="13"
+  font-weight="600">
+
+  PULL REQUESTS
+
+</text>
+
+<text
+  x="425"
+  y="172"
+  fill="#f8fafc"
+  font-family="Inter,Arial,sans-serif"
+  font-size="34"
+  font-weight="700">
+
+  3
+
+</text>
+
+
+<rect
+  x="760"
+  y="90"
+  width="300"
+  height="125"
+  rx="18"
+  fill="#111827"
+  stroke="#1f2937"
+  stroke-width="1"/>
+
+<rect
+  x="760"
+  y="90"
+  width="5"
+  height="125"
+  rx="2"
+  fill="url(#accent)"/>
+
+<text
+  x="785"
+  y="125"
+  fill="#94a3b8"
+  font-family="Inter,Arial,sans-serif"
+  font-size="13"
+  font-weight="600">
+
+  ISSUES
+
+</text>
+
+<text
+  x="785"
+  y="172"
+  fill="#f8fafc"
+  font-family="Inter,Arial,sans-serif"
+  font-size="34"
+  font-weight="700">
+
+  0
+
+</text>
+
+
+<rect
+  x="40"
+  y="245"
+  width="300"
+  height="125"
+  rx="18"
+  fill="#111827"
+  stroke="#1f2937"
+  stroke-width="1"/>
+
+<rect
+  x="40"
+  y="245"
+  width="5"
+  height="125"
+  rx="2"
+  fill="url(#accent)"/>
+
+<text
+  x="65"
+  y="280"
+  fill="#94a3b8"
+  font-family="Inter,Arial,sans-serif"
+  font-size="13"
+  font-weight="600">
+
+  REVIEWS
+
+</text>
+
+<text
+  x="65"
+  y="327"
+  fill="#f8fafc"
+  font-family="Inter,Arial,sans-serif"
+  font-size="34"
+  font-weight="700">
+
+  0
+
+</text>
+
+
+<rect
+  x="400"
+  y="245"
+  width="300"
+  height="125"
+  rx="18"
+  fill="#111827"
+  stroke="#1f2937"
+  stroke-width="1"/>
+
+<rect
+  x="400"
+  y="245"
+  width="5"
+  height="125"
+  rx="2"
+  fill="url(#accent)"/>
+
+<text
+  x="425"
+  y="280"
+  fill="#94a3b8"
+  font-family="Inter,Arial,sans-serif"
+  font-size="13"
+  font-weight="600">
+
+  STARS
+
+</text>
+
+<text
+  x="425"
+  y="327"
+  fill="#f8fafc"
+  font-family="Inter,Arial,sans-serif"
+  font-size="34"
+  font-weight="700">
+
+  0
+
+</text>
+
+
+<rect
+  x="760"
+  y="245"
+  width="300"
+  height="125"
+  rx="18"
+  fill="#111827"
+  stroke="#1f2937"
+  stroke-width="1"/>
+
+<rect
+  x="760"
+  y="245"
+  width="5"
+  height="125"
+  rx="2"
+  fill="url(#accent)"/>
+
+<text
+  x="785"
+  y="280"
+  fill="#94a3b8"
+  font-family="Inter,Arial,sans-serif"
+  font-size="13"
+  font-weight="600">
+
+  REPOSITORIES
+
+</text>
+
+<text
+  x="785"
+  y="327"
+  fill="#f8fafc"
+  font-family="Inter,Arial,sans-serif"
+  font-size="34"
+  font-weight="700">
+
+  32
+
+</text>
+
+
+<text
+  x="40"
+  y="420"
+  fill="#94a3b8"
+  font-family="Inter,Arial,sans-serif"
+  font-size="14">
+
+  TOTAL CONTRIBUTIONS
+</text>
+
+<text
+  x="40"
+  y="465"
+  fill="#f8fafc"
+  font-family="Inter,Arial,sans-serif"
+  font-size="32"
+  font-weight="700">
+
+121
+
+</text>
+
+
+
+<text
+  x="300"
+  y="465"
+  fill="#94a3b8"
+  font-family="Inter,Arial,sans-serif"
+  font-size="14">
+
+  FOLLOWERS
+
+</text>
+
+<text
+  x="300"
+  y="495"
+  fill="#f8fafc"
+  font-family="Inter,Arial,sans-serif"
+  font-size="22"
+  font-weight="700">
+
+1
+
+</text>
+
+
+
+<text
+  x="520"
+  y="465"
+  fill="#94a3b8"
+  font-family="Inter,Arial,sans-serif"
+  font-size="14">
+
+  FORKS
+
+</text>
+
+<text
+  x="520"
+  y="495"
+  fill="#f8fafc"
+  font-family="Inter,Arial,sans-serif"
+  font-size="22"
+  font-weight="700">
+
+0
+
+</text>
+
+
+
+<text
+  x="700"
+  y="465"
+  fill="#94a3b8"
+  font-family="Inter,Arial,sans-serif"
+  font-size="14">
+
+  TOP LANGUAGE
+
+</text>
+
+
+
+<text
+  x="700"
+  y="495"
+  fill="#f8fafc"
+  font-family="Inter,Arial,sans-serif"
+  font-size="22"
+  font-weight="700">
+
+  TypeScript
+  32.7%
+
+</text>
+
+</svg>

@@ -1,0 +1,86 @@
+{
+  "generated_at": "2026-08-30T17:38:54.341170+00:00",
+  "username": "erynaldo",
+  "name": "Erinaldo Cardoso",
+  "followers": 1,
+  "repositories": 32,
+  "stars": 0,
+  "forks": 0,
+  "commits": 106,
+  "pull_requests": 3,
+  "issues": 0,
+  "reviews": 0,
+  "total_contributions": 121,
+  "restricted_contributions": 0,
+  "activity_percentages": {
+    "Commits": 97.25,
+    "Pull Requests": 2.75,
+    "Issues": 0.0,
+    "Code Reviews": 0.0
+  },
+  "languages": {
+    "TypeScript": 32.72,
+    "JavaScript": 29.91,
+    "CSS": 19.35,
+    "HTML": 12.44,
+    "Python": 2.28,
+    "PowerShell": 1.52,
+    "C": 0.9,
+    "Java": 0.78,
+    "Batchfile": 0.08,
+    "Dockerfile": 0.02,
+    "Shell": 0.01,
+    "Procfile": 0.0
+  },
+  "monthly_contributions": {
+    "2025-09": 4,
+    "2025-10": 5,
+    "2025-11": 7,
+    "2025-12": 0,
+    "2026-01": 0,
+    "2026-02": 0,
+    "2026-03": 1,
+    "2026-04": 9,
+    "2026-05": 24,
+    "2026-06": 1,
+    "2026-07": 36,
+    "2026-08": 27
+  },
+  "top_repositories": [
+    {
+      "name": "erynaldo",
+      "stars": 0,
+      "forks": 0,
+      "language": null,
+      "url": "https://github.com/erynaldo/erynaldo"
+    },
+    {
+      "name": "Labuta-ui",
+      "stars": 0,
+      "forks": 0,
+      "language": "TypeScript",
+      "url": "https://github.com/erynaldo/Labuta-ui"
+    },
+    {
+      "name": "projeto-labuta-teste",
+      "stars": 0,
+      "forks": 0,
+      "language": "TypeScript",
+      "url": "https://github.com/erynaldo/projeto-labuta-teste"
+    },
+    {
+      "name": "mvp-sinutre-frontend",
+      "stars": 0,
+      "forks": 0,
+      "language": "TypeScript",
+      "url": "https://github.com/erynaldo/mvp-sinutre-frontend"
+    },
+    {
+      "name": "mvp-sinutre-backend",
+      "stars": 0,
+      "forks": 0,
+      "language": "TypeScript",
+      "url": "https://github.com/erynaldo/mvp-sinutre-backend"
+    }
+  ]
+}
