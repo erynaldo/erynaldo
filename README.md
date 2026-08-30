@@ -1,24 +1,37 @@
-<h1 align="center">👋 Olá, bem vindo!</h1>
+<!-- <h1 align="center">👋 Olá, bem vindo!</h1> -->
+<div align="center">
 
-## 🚀 Um pouco sobre mim
+## 👋 Olá, bem vindo!
+
+💻 **Developer** • 🚀 **Technology** • ☁️ **Cloud** • 📊 **Open Source**
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:06b6d4&height=180&section=header&text=ERYNALDO&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
+/>
+
+</div>
+
+---
+
+**👨‍💻 Sobre mim**
 
 - 🎓 Estudante de Sistemas para Internet - UESPI/UAPI.
 - 💻 Desenvolvedor web Full-Stack desde 2021.
 - 🛠️ Tenho conhecimento em • Python • Flask • JavaScript • TypeScript • Node.js • React • HTML • CSS • Tailwind CSS • SQL • MySQL • PostgreSQL • Git • Github.
-- 💡  Apaixonado por Tecnologia, Programação e Inteligência Artificial.
+- 💡  Apaixonado por tecnologia, programação, inteligência artificial e construção de soluções.
 - 📚 Atualmente focado em construir projetos completos para evoluir minhas habilidades como desenvolvedor Full-Stack.
 
 ---
-## 🛠️ Tenho conhecimento em:
+🛠️ **Tenho conhecimento em:**
 
-## ⚙️ Linguagens
+⚙️ Linguagens
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,js,ts,php,java,c,cpp&theme=light" />
   </a>
 </p>
 
-## ⚙️ Front-end
+### ⚙️ Front-end
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap&theme=light" />
@@ -98,7 +111,6 @@
 
 🔥 GitHub Streak
 
-<p align="center"> <img src="https://streak-stats.demolab.com?user=erynaldo&theme=tokyonight&hide_border=true" /> </p>
 
 💻 Linguagens que mais utilizo
 
@@ -116,33 +128,6 @@
 
 
 📫 Contato
-
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=erynaldo&style=for-the-badge&color=6C63FF" /> </p>
-
-<p align="center"> <i>⭐ “Transformando ideias em código.”</i> </p>
-
----
-
-<div align="center">
-
-# 👋 Olá, eu sou Erynaldo!
-
-### 💻 Developer • 🚀 Technology • ☁️ Cloud • 📊 Open Source
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:06b6d4&height=180&section=header&text=ERYNALDO&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
-/>
-
-</div>
-
----
-
-## 👨‍💻 Sobre mim
-
-Sou desenvolvedor apaixonado por tecnologia, programação e construção de soluções.
-
-Gosto de transformar ideias em código, aprender novas tecnologias e trabalhar em projetos que gerem impacto.
 
 ---
 
@@ -201,48 +186,7 @@ Gosto de transformar ideias em código, aprender novas tecnologias e trabalhar e
 
 ---
 
-## 🛠️ Tecnologias
-
-<div align="center">
-
-<img
-  src="https://skillicons.dev/icons?i=git,github,html,css,js,ts,react,nodejs,python,java,docker,linux,mysql,postgresql,aws&perline=8"
-/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=erynaldo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"
-/>
-
-</div>
-
----
-
-## 📫 Onde me encontrar
-
-<div align="center">
-
-<a href="https://github.com/erynaldo">
-  <img
-    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Obrigado pela visita!
+⭐ Obrigado pela visita!
 
 <img
   src="https://komarev.com/ghpvc/?username=erynaldo&style=for-the-badge&color=8b5cf6"
