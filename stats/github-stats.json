@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-02T07:30:19.448091+00:00",
+  "generated_at": "2026-09-03T07:36:44.657661+00:00",
   "username": "erynaldo",
   "name": "Erinaldo Cardoso",
   "followers": 1,
   "repositories": 33,
   "stars": 0,
   "forks": 0,
-  "commits": 109,
-  "pull_requests": 4,
+  "commits": 114,
+  "pull_requests": 8,
   "issues": 0,
   "reviews": 0,
-  "total_contributions": 125,
+  "total_contributions": 134,
   "restricted_contributions": 0,
   "activity_percentages": {
-    "Commits": 96.46,
-    "Pull Requests": 3.54,
+    "Commits": 93.44,
+    "Pull Requests": 6.56,
     "Issues": 0.0,
     "Code Reviews": 0.0
   },
   "languages": {
-    "TypeScript": 33.68,
-    "JavaScript": 28.76,
-    "CSS": 19.16,
-    "HTML": 12.0,
-    "Python": 3.23,
+    "TypeScript": 33.75,
+    "JavaScript": 28.73,
+    "CSS": 19.14,
+    "HTML": 11.99,
+    "Python": 3.22,
     "PowerShell": 1.46,
     "C": 0.86,
     "Java": 0.75,
@@ -43,10 +43,17 @@
     "2026-05": 24,
     "2026-06": 1,
     "2026-07": 36,
-    "2026-08": 35,
-    "2026-09": 0
+    "2026-08": 37,
+    "2026-09": 7
   },
   "top_repositories": [
+    {
+      "name": "Labuta-ui",
+      "stars": 0,
+      "forks": 0,
+      "language": "TypeScript",
+      "url": "https://github.com/erynaldo/Labuta-ui"
+    },
     {
       "name": "erynaldo",
       "stars": 0,
@@ -60,13 +67,6 @@
       "forks": 0,
       "language": "TypeScript",
       "url": "https://github.com/erynaldo/projeto-cardoso"
-    },
-    {
-      "name": "Labuta-ui",
-      "stars": 0,
-      "forks": 0,
-      "language": "TypeScript",
-      "url": "https://github.com/erynaldo/Labuta-ui"
     },
     {
       "name": "projeto-labuta-teste",

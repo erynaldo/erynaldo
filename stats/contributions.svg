@@ -64,9 +64,9 @@ viewBox="0 0 1100 520">
 
 <rect
   x="60.00"
-  y="358.33"
+  y="359.46"
   width="69.67"
-  height="41.67"
+  height="40.54"
   rx="8"
   fill="url(#accent)"/>
 
@@ -84,7 +84,7 @@ viewBox="0 0 1100 520">
 
 <text
   x="94.83"
-  y="348.33"
+  y="349.46"
   text-anchor="middle"
   fill="#f8fafc"
   font-family="Inter,Arial,sans-serif"
@@ -99,9 +99,9 @@ viewBox="0 0 1100 520">
 
 <rect
   x="141.67"
-  y="341.67"
+  y="343.24"
   width="69.67"
-  height="58.33"
+  height="56.76"
   rx="8"
   fill="url(#accent)"/>
 
@@ -119,7 +119,7 @@ viewBox="0 0 1100 520">
 
 <text
   x="176.50"
-  y="331.67"
+  y="333.24"
   text-anchor="middle"
   fill="#f8fafc"
   font-family="Inter,Arial,sans-serif"
@@ -239,9 +239,9 @@ viewBox="0 0 1100 520">
 
 <rect
   x="468.33"
-  y="391.67"
+  y="391.89"
   width="69.67"
-  height="8.33"
+  height="8.11"
   rx="8"
   fill="url(#accent)"/>
 
@@ -259,7 +259,7 @@ viewBox="0 0 1100 520">
 
 <text
   x="503.17"
-  y="381.67"
+  y="381.89"
   text-anchor="middle"
   fill="#f8fafc"
   font-family="Inter,Arial,sans-serif"
@@ -274,9 +274,9 @@ viewBox="0 0 1100 520">
 
 <rect
   x="550.00"
-  y="325.00"
+  y="327.03"
   width="69.67"
-  height="75.00"
+  height="72.97"
   rx="8"
   fill="url(#accent)"/>
 
@@ -294,7 +294,7 @@ viewBox="0 0 1100 520">
 
 <text
   x="584.83"
-  y="315.00"
+  y="317.03"
   text-anchor="middle"
   fill="#f8fafc"
   font-family="Inter,Arial,sans-serif"
@@ -309,9 +309,9 @@ viewBox="0 0 1100 520">
 
 <rect
   x="631.67"
-  y="200.00"
+  y="205.41"
   width="69.67"
-  height="200.00"
+  height="194.59"
   rx="8"
   fill="url(#accent)"/>
 
@@ -329,7 +329,7 @@ viewBox="0 0 1100 520">
 
 <text
   x="666.50"
-  y="190.00"
+  y="195.41"
   text-anchor="middle"
   fill="#f8fafc"
   font-family="Inter,Arial,sans-serif"
@@ -344,9 +344,9 @@ viewBox="0 0 1100 520">
 
 <rect
   x="713.33"
-  y="391.67"
+  y="391.89"
   width="69.67"
-  height="8.33"
+  height="8.11"
   rx="8"
   fill="url(#accent)"/>
 
@@ -364,7 +364,7 @@ viewBox="0 0 1100 520">
 
 <text
   x="748.17"
-  y="381.67"
+  y="381.89"
   text-anchor="middle"
   fill="#f8fafc"
   font-family="Inter,Arial,sans-serif"
@@ -379,9 +379,9 @@ viewBox="0 0 1100 520">
 
 <rect
   x="795.00"
-  y="100.00"
+  y="108.11"
   width="69.67"
-  height="300.00"
+  height="291.89"
   rx="8"
   fill="url(#accent)"/>
 
@@ -399,7 +399,7 @@ viewBox="0 0 1100 520">
 
 <text
   x="829.83"
-  y="90.00"
+  y="98.11"
   text-anchor="middle"
   fill="#f8fafc"
   font-family="Inter,Arial,sans-serif"
@@ -414,9 +414,9 @@ viewBox="0 0 1100 520">
 
 <rect
   x="876.67"
-  y="108.33"
+  y="100.00"
   width="69.67"
-  height="291.67"
+  height="300.00"
   rx="8"
   fill="url(#accent)"/>
 
@@ -434,14 +434,14 @@ viewBox="0 0 1100 520">
 
 <text
   x="911.50"
-  y="98.33"
+  y="90.00"
   text-anchor="middle"
   fill="#f8fafc"
   font-family="Inter,Arial,sans-serif"
   font-size="12"
   font-weight="700">
 
-  35
+  37
 
 </text>
 
@@ -449,9 +449,9 @@ viewBox="0 0 1100 520">
 
 <rect
   x="958.33"
-  y="400.00"
+  y="343.24"
   width="69.67"
-  height="0.00"
+  height="56.76"
   rx="8"
   fill="url(#accent)"/>
 
@@ -469,14 +469,14 @@ viewBox="0 0 1100 520">
 
 <text
   x="993.17"
-  y="390.00"
+  y="333.24"
   text-anchor="middle"
   fill="#f8fafc"
   font-family="Inter,Arial,sans-serif"
   font-size="12"
   font-weight="700">
 
-  0
+  7
 
 </text>
 
