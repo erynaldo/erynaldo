@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T07:36:14.475378+00:00",
+  "generated_at": "2026-09-05T07:17:02.827589+00:00",
   "username": "erynaldo",
   "name": "Erinaldo Cardoso",
   "followers": 1,
@@ -19,14 +19,14 @@
     "Code Reviews": 0.0
   },
   "languages": {
-    "TypeScript": 33.72,
-    "JavaScript": 28.74,
-    "CSS": 19.15,
-    "HTML": 11.99,
-    "Python": 3.23,
+    "TypeScript": 33.93,
+    "JavaScript": 28.65,
+    "CSS": 19.09,
+    "HTML": 11.96,
+    "Python": 3.22,
     "PowerShell": 1.46,
     "C": 0.86,
-    "Java": 0.75,
+    "Java": 0.74,
     "Batchfile": 0.08,
     "Dockerfile": 0.02,
     "Shell": 0.01,
