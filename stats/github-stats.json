@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T07:17:02.827589+00:00",
+  "generated_at": "2026-09-06T07:29:34.631357+00:00",
   "username": "erynaldo",
   "name": "Erinaldo Cardoso",
   "followers": 1,
@@ -48,18 +48,18 @@
   },
   "top_repositories": [
     {
-      "name": "Labuta-ui",
-      "stars": 0,
-      "forks": 0,
-      "language": "TypeScript",
-      "url": "https://github.com/erynaldo/Labuta-ui"
-    },
-    {
       "name": "erynaldo",
       "stars": 0,
       "forks": 0,
       "language": "Python",
       "url": "https://github.com/erynaldo/erynaldo"
+    },
+    {
+      "name": "Labuta-ui",
+      "stars": 0,
+      "forks": 0,
+      "language": "TypeScript",
+      "url": "https://github.com/erynaldo/Labuta-ui"
     },
     {
       "name": "projeto-cardoso",
