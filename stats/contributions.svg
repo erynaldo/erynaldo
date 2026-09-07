@@ -449,9 +449,9 @@ viewBox="0 0 1100 520">
 
 <rect
   x="958.33"
-  y="294.59"
+  y="270.27"
   width="69.67"
-  height="105.41"
+  height="129.73"
   rx="8"
   fill="url(#accent)"/>
 
@@ -469,14 +469,14 @@ viewBox="0 0 1100 520">
 
 <text
   x="993.17"
-  y="284.59"
+  y="260.27"
   text-anchor="middle"
   fill="#f8fafc"
   font-family="Inter,Arial,sans-serif"
   font-size="12"
   font-weight="700">
 
-  13
+  16
 
 </text>
 
