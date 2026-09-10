@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-09-09T07:44:50.481066+00:00",
+  "generated_at": "2026-09-10T07:44:52.975810+00:00",
   "username": "erynaldo",
   "name": "Erinaldo Cardoso",
   "followers": 1,
-  "repositories": 33,
+  "repositories": 32,
   "stars": 0,
   "forks": 2,
-  "commits": 117,
-  "pull_requests": 11,
+  "commits": 114,
+  "pull_requests": 10,
   "issues": 0,
   "reviews": 0,
-  "total_contributions": 139,
+  "total_contributions": 134,
   "restricted_contributions": 0,
   "activity_percentages": {
-    "Commits": 91.41,
-    "Pull Requests": 8.59,
+    "Commits": 91.94,
+    "Pull Requests": 8.06,
     "Issues": 0.0,
     "Code Reviews": 0.0
   },
   "languages": {
-    "TypeScript": 34.55,
-    "JavaScript": 28.38,
-    "CSS": 18.91,
-    "HTML": 11.84,
-    "Python": 3.19,
-    "PowerShell": 1.44,
-    "C": 0.85,
-    "Java": 0.74,
+    "TypeScript": 33.28,
+    "JavaScript": 29.19,
+    "CSS": 18.88,
+    "HTML": 12.14,
+    "Python": 3.28,
+    "PowerShell": 1.49,
+    "C": 0.88,
+    "Java": 0.76,
     "Batchfile": 0.08,
     "Dockerfile": 0.02,
     "Shell": 0.01,
@@ -43,7 +43,7 @@
     "2026-05": 24,
     "2026-06": 1,
     "2026-07": 36,
-    "2026-08": 37,
+    "2026-08": 32,
     "2026-09": 17
   },
   "top_repositories": [
@@ -62,13 +62,6 @@
       "url": "https://github.com/erynaldo/erynaldo"
     },
     {
-      "name": "projeto-cardoso",
-      "stars": 0,
-      "forks": 0,
-      "language": "TypeScript",
-      "url": "https://github.com/erynaldo/projeto-cardoso"
-    },
-    {
       "name": "projeto-labuta-teste",
       "stars": 0,
       "forks": 0,
@@ -81,6 +74,13 @@
       "forks": 0,
       "language": "TypeScript",
       "url": "https://github.com/erynaldo/mvp-sinutre-frontend"
+    },
+    {
+      "name": "mvp-sinutre-backend",
+      "stars": 0,
+      "forks": 0,
+      "language": "TypeScript",
+      "url": "https://github.com/erynaldo/mvp-sinutre-backend"
     }
   ]
 }
