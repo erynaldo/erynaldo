@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-14T08:26:01.828798+00:00",
+  "generated_at": "2026-09-15T08:17:02.063599+00:00",
   "username": "erynaldo",
   "name": "Erinaldo Cardoso",
   "followers": 1,
   "repositories": 32,
   "stars": 0,
   "forks": 2,
-  "commits": 113,
+  "commits": 117,
   "pull_requests": 10,
   "issues": 0,
   "reviews": 0,
-  "total_contributions": 133,
+  "total_contributions": 137,
   "restricted_contributions": 0,
   "activity_percentages": {
-    "Commits": 91.87,
-    "Pull Requests": 8.13,
+    "Commits": 92.13,
+    "Pull Requests": 7.87,
     "Issues": 0.0,
     "Code Reviews": 0.0
   },
   "languages": {
-    "TypeScript": 33.28,
-    "JavaScript": 29.19,
-    "CSS": 18.88,
-    "HTML": 12.14,
-    "Python": 3.28,
+    "TypeScript": 33.27,
+    "JavaScript": 29.18,
+    "CSS": 18.87,
+    "HTML": 12.16,
+    "Python": 3.29,
     "PowerShell": 1.49,
     "C": 0.88,
     "Java": 0.76,
@@ -44,7 +44,7 @@
     "2026-06": 1,
     "2026-07": 36,
     "2026-08": 32,
-    "2026-09": 17
+    "2026-09": 21
   },
   "top_repositories": [
     {
@@ -53,6 +53,13 @@
       "forks": 2,
       "language": "TypeScript",
       "url": "https://github.com/erynaldo/Labuta-ui"
+    },
+    {
+      "name": "projeto-bullying",
+      "stars": 0,
+      "forks": 0,
+      "language": "HTML",
+      "url": "https://github.com/erynaldo/projeto-bullying"
     },
     {
       "name": "erynaldo",
@@ -74,13 +81,6 @@
       "forks": 0,
       "language": "TypeScript",
       "url": "https://github.com/erynaldo/mvp-sinutre-frontend"
-    },
-    {
-      "name": "mvp-sinutre-backend",
-      "stars": 0,
-      "forks": 0,
-      "language": "TypeScript",
-      "url": "https://github.com/erynaldo/mvp-sinutre-backend"
     }
   ]
 }
