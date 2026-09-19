@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-09-18T07:51:02.100554+00:00",
+  "generated_at": "2026-09-19T07:43:03.391490+00:00",
   "username": "erynaldo",
   "name": "Erinaldo Cardoso",
   "followers": 1,
-  "repositories": 32,
+  "repositories": 33,
   "stars": 0,
   "forks": 2,
-  "commits": 118,
+  "commits": 129,
   "pull_requests": 10,
   "issues": 0,
   "reviews": 0,
-  "total_contributions": 138,
+  "total_contributions": 150,
   "restricted_contributions": 0,
   "activity_percentages": {
-    "Commits": 92.19,
-    "Pull Requests": 7.81,
+    "Commits": 92.81,
+    "Pull Requests": 7.19,
     "Issues": 0.0,
     "Code Reviews": 0.0
   },
   "languages": {
-    "TypeScript": 33.27,
-    "JavaScript": 29.18,
-    "CSS": 18.87,
-    "HTML": 12.16,
-    "Python": 3.29,
-    "PowerShell": 1.49,
-    "C": 0.88,
-    "Java": 0.76,
+    "TypeScript": 32.83,
+    "JavaScript": 30.11,
+    "CSS": 18.63,
+    "HTML": 12.0,
+    "Python": 3.25,
+    "PowerShell": 1.47,
+    "C": 0.86,
+    "Java": 0.75,
     "Batchfile": 0.08,
     "Dockerfile": 0.02,
     "Shell": 0.01,
@@ -44,7 +44,7 @@
     "2026-06": 1,
     "2026-07": 36,
     "2026-08": 32,
-    "2026-09": 22
+    "2026-09": 34
   },
   "top_repositories": [
     {
@@ -53,6 +53,13 @@
       "forks": 2,
       "language": "TypeScript",
       "url": "https://github.com/erynaldo/Labuta-ui"
+    },
+    {
+      "name": "DevShowcase-API",
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "url": "https://github.com/erynaldo/DevShowcase-API"
     },
     {
       "name": "erynaldo",
@@ -74,13 +81,6 @@
       "forks": 0,
       "language": "TypeScript",
       "url": "https://github.com/erynaldo/projeto-labuta-teste"
-    },
-    {
-      "name": "mvp-sinutre-frontend",
-      "stars": 0,
-      "forks": 0,
-      "language": "TypeScript",
-      "url": "https://github.com/erynaldo/mvp-sinutre-frontend"
     }
   ]
 }
