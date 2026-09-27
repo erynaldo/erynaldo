@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T08:13:12.059289+00:00",
+  "generated_at": "2026-09-27T08:50:09.426253+00:00",
   "username": "erynaldo",
   "name": "Erinaldo Cardoso",
   "followers": 3,
@@ -55,18 +55,18 @@
       "url": "https://github.com/erynaldo/Labuta-ui"
     },
     {
-      "name": "DevShowcase-API",
-      "stars": 0,
-      "forks": 0,
-      "language": "JavaScript",
-      "url": "https://github.com/erynaldo/DevShowcase-API"
-    },
-    {
       "name": "erynaldo",
       "stars": 0,
       "forks": 0,
       "language": "Python",
       "url": "https://github.com/erynaldo/erynaldo"
+    },
+    {
+      "name": "DevShowcase-API",
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "url": "https://github.com/erynaldo/DevShowcase-API"
     },
     {
       "name": "projeto-bullying",
