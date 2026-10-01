@@ -64,41 +64,6 @@ viewBox="0 0 1100 520">
 
 <rect
   x="60.00"
-  y="364.29"
-  width="69.67"
-  height="35.71"
-  rx="8"
-  fill="url(#accent)"/>
-
-<text
-  x="94.83"
-  y="430"
-  text-anchor="middle"
-  fill="#94a3b8"
-  font-family="Inter,Arial,sans-serif"
-  font-size="12">
-
-  2025-10
-
-</text>
-
-<text
-  x="94.83"
-  y="354.29"
-  text-anchor="middle"
-  fill="#f8fafc"
-  font-family="Inter,Arial,sans-serif"
-  font-size="12"
-  font-weight="700">
-
-  5
-
-</text>
-
-
-
-<rect
-  x="141.67"
   y="350.00"
   width="69.67"
   height="50.00"
@@ -106,7 +71,7 @@ viewBox="0 0 1100 520">
   fill="url(#accent)"/>
 
 <text
-  x="176.50"
+  x="94.83"
   y="430"
   text-anchor="middle"
   fill="#94a3b8"
@@ -118,7 +83,7 @@ viewBox="0 0 1100 520">
 </text>
 
 <text
-  x="176.50"
+  x="94.83"
   y="340.00"
   text-anchor="middle"
   fill="#f8fafc"
@@ -127,6 +92,41 @@ viewBox="0 0 1100 520">
   font-weight="700">
 
   7
+
+</text>
+
+
+
+<rect
+  x="141.67"
+  y="400.00"
+  width="69.67"
+  height="0.00"
+  rx="8"
+  fill="url(#accent)"/>
+
+<text
+  x="176.50"
+  y="430"
+  text-anchor="middle"
+  fill="#94a3b8"
+  font-family="Inter,Arial,sans-serif"
+  font-size="12">
+
+  2025-12
+
+</text>
+
+<text
+  x="176.50"
+  y="390.00"
+  text-anchor="middle"
+  fill="#f8fafc"
+  font-family="Inter,Arial,sans-serif"
+  font-size="12"
+  font-weight="700">
+
+  0
 
 </text>
 
@@ -148,7 +148,7 @@ viewBox="0 0 1100 520">
   font-family="Inter,Arial,sans-serif"
   font-size="12">
 
-  2025-12
+  2026-01
 
 </text>
 
@@ -183,7 +183,7 @@ viewBox="0 0 1100 520">
   font-family="Inter,Arial,sans-serif"
   font-size="12">
 
-  2026-01
+  2026-02
 
 </text>
 
@@ -204,41 +204,6 @@ viewBox="0 0 1100 520">
 
 <rect
   x="386.67"
-  y="400.00"
-  width="69.67"
-  height="0.00"
-  rx="8"
-  fill="url(#accent)"/>
-
-<text
-  x="421.50"
-  y="430"
-  text-anchor="middle"
-  fill="#94a3b8"
-  font-family="Inter,Arial,sans-serif"
-  font-size="12">
-
-  2026-02
-
-</text>
-
-<text
-  x="421.50"
-  y="390.00"
-  text-anchor="middle"
-  fill="#f8fafc"
-  font-family="Inter,Arial,sans-serif"
-  font-size="12"
-  font-weight="700">
-
-  0
-
-</text>
-
-
-
-<rect
-  x="468.33"
   y="392.86"
   width="69.67"
   height="7.14"
@@ -246,7 +211,7 @@ viewBox="0 0 1100 520">
   fill="url(#accent)"/>
 
 <text
-  x="503.17"
+  x="421.50"
   y="430"
   text-anchor="middle"
   fill="#94a3b8"
@@ -258,7 +223,7 @@ viewBox="0 0 1100 520">
 </text>
 
 <text
-  x="503.17"
+  x="421.50"
   y="382.86"
   text-anchor="middle"
   fill="#f8fafc"
@@ -273,7 +238,7 @@ viewBox="0 0 1100 520">
 
 
 <rect
-  x="550.00"
+  x="468.33"
   y="335.71"
   width="69.67"
   height="64.29"
@@ -281,7 +246,7 @@ viewBox="0 0 1100 520">
   fill="url(#accent)"/>
 
 <text
-  x="584.83"
+  x="503.17"
   y="430"
   text-anchor="middle"
   fill="#94a3b8"
@@ -293,7 +258,7 @@ viewBox="0 0 1100 520">
 </text>
 
 <text
-  x="584.83"
+  x="503.17"
   y="325.71"
   text-anchor="middle"
   fill="#f8fafc"
@@ -308,7 +273,7 @@ viewBox="0 0 1100 520">
 
 
 <rect
-  x="631.67"
+  x="550.00"
   y="228.57"
   width="69.67"
   height="171.43"
@@ -316,7 +281,7 @@ viewBox="0 0 1100 520">
   fill="url(#accent)"/>
 
 <text
-  x="666.50"
+  x="584.83"
   y="430"
   text-anchor="middle"
   fill="#94a3b8"
@@ -328,7 +293,7 @@ viewBox="0 0 1100 520">
 </text>
 
 <text
-  x="666.50"
+  x="584.83"
   y="218.57"
   text-anchor="middle"
   fill="#f8fafc"
@@ -343,7 +308,7 @@ viewBox="0 0 1100 520">
 
 
 <rect
-  x="713.33"
+  x="631.67"
   y="392.86"
   width="69.67"
   height="7.14"
@@ -351,7 +316,7 @@ viewBox="0 0 1100 520">
   fill="url(#accent)"/>
 
 <text
-  x="748.17"
+  x="666.50"
   y="430"
   text-anchor="middle"
   fill="#94a3b8"
@@ -363,7 +328,7 @@ viewBox="0 0 1100 520">
 </text>
 
 <text
-  x="748.17"
+  x="666.50"
   y="382.86"
   text-anchor="middle"
   fill="#f8fafc"
@@ -378,7 +343,7 @@ viewBox="0 0 1100 520">
 
 
 <rect
-  x="795.00"
+  x="713.33"
   y="142.86"
   width="69.67"
   height="257.14"
@@ -386,7 +351,7 @@ viewBox="0 0 1100 520">
   fill="url(#accent)"/>
 
 <text
-  x="829.83"
+  x="748.17"
   y="430"
   text-anchor="middle"
   fill="#94a3b8"
@@ -398,7 +363,7 @@ viewBox="0 0 1100 520">
 </text>
 
 <text
-  x="829.83"
+  x="748.17"
   y="132.86"
   text-anchor="middle"
   fill="#f8fafc"
@@ -413,7 +378,7 @@ viewBox="0 0 1100 520">
 
 
 <rect
-  x="876.67"
+  x="795.00"
   y="171.43"
   width="69.67"
   height="228.57"
@@ -421,7 +386,7 @@ viewBox="0 0 1100 520">
   fill="url(#accent)"/>
 
 <text
-  x="911.50"
+  x="829.83"
   y="430"
   text-anchor="middle"
   fill="#94a3b8"
@@ -433,7 +398,7 @@ viewBox="0 0 1100 520">
 </text>
 
 <text
-  x="911.50"
+  x="829.83"
   y="161.43"
   text-anchor="middle"
   fill="#f8fafc"
@@ -448,7 +413,7 @@ viewBox="0 0 1100 520">
 
 
 <rect
-  x="958.33"
+  x="876.67"
   y="100.00"
   width="69.67"
   height="300.00"
@@ -456,7 +421,7 @@ viewBox="0 0 1100 520">
   fill="url(#accent)"/>
 
 <text
-  x="993.17"
+  x="911.50"
   y="430"
   text-anchor="middle"
   fill="#94a3b8"
@@ -468,7 +433,7 @@ viewBox="0 0 1100 520">
 </text>
 
 <text
-  x="993.17"
+  x="911.50"
   y="90.00"
   text-anchor="middle"
   fill="#f8fafc"
@@ -477,6 +442,41 @@ viewBox="0 0 1100 520">
   font-weight="700">
 
   42
+
+</text>
+
+
+
+<rect
+  x="958.33"
+  y="400.00"
+  width="69.67"
+  height="0.00"
+  rx="8"
+  fill="url(#accent)"/>
+
+<text
+  x="993.17"
+  y="430"
+  text-anchor="middle"
+  fill="#94a3b8"
+  font-family="Inter,Arial,sans-serif"
+  font-size="12">
+
+  2026-10
+
+</text>
+
+<text
+  x="993.17"
+  y="390.00"
+  text-anchor="middle"
+  fill="#f8fafc"
+  font-family="Inter,Arial,sans-serif"
+  font-size="12"
+  font-weight="700">
+
+  0
 
 </text>
 
